@@ -4,3 +4,8 @@ p {
     background-color: rgb(209, 132, 185);
     font-family: Verdana, 'DejaVu Sans', 'sans-serif';
 }
+
+#second-element {
+    color: rgb(46, 93, 214);
+    font-size: 36px; 
+}
