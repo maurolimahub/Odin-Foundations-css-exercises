@@ -1,1 +1,6 @@
 /* Add CSS Styling */
+
+.first-element {
+    background-color: black;
+    color: white;
+}
